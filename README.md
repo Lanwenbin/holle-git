@@ -1,11 +1,6 @@
-# holle-git
-first-gi
+# 
+holle-git
+first-git
 hello dl 
 
-Hello  Git
-
-cnn
-cnnn
-
-cnm
 
